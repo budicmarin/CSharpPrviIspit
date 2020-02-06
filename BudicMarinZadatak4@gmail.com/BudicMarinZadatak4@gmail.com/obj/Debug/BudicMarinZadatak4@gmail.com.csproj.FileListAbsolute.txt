@@ -1,0 +1,10 @@
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\bin\Debug\BudicMarinZadatak4@gmail.com.exe.config
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\bin\Debug\BudicMarinZadatak4@gmail.com.exe
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\bin\Debug\BudicMarinZadatak4@gmail.com.pdb
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4@gmail.com.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4_gmail.com.Form1.resources
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4_gmail.com.Properties.Resources.resources
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4@gmail.com.csproj.GenerateResource.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4@gmail.com.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4@gmail.com.exe
+C:\Users\Marin\source\repos\BudicMarinZadatak4@gmail.com\BudicMarinZadatak4@gmail.com\obj\Debug\BudicMarinZadatak4@gmail.com.pdb
