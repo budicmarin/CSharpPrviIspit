@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\bin\Debug\budicMarinZadatak1.exe.config
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\bin\Debug\budicMarinZadatak1.exe
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\bin\Debug\budicMarinZadatak1.pdb
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\obj\Debug\budicMarinZadatak1.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\obj\Debug\budicMarinZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\obj\Debug\budicMarinZadatak1.exe
+C:\Users\Marin\source\repos\budicMarinZadatak1\budicMarinZadatak1\obj\Debug\budicMarinZadatak1.pdb
