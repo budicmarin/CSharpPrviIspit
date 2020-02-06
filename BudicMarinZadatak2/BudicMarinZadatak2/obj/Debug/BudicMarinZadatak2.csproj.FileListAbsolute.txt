@@ -1,0 +1,10 @@
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\bin\Debug\BudicMarinZadatak2.exe.config
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\bin\Debug\BudicMarinZadatak2.exe
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\bin\Debug\BudicMarinZadatak2.pdb
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.Properties.Resources.resources
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.csproj.GenerateResource.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.exe
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.pdb
+C:\Users\Marin\source\repos\BudicMarinZadatak2\BudicMarinZadatak2\obj\Debug\BudicMarinZadatak2.Form1.resources
